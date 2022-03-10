@@ -22,11 +22,9 @@ Run executable in admin mode. The executable will ask for inputs to define envir
 DB_set_up_windows.exe update
 ```
 
-The executables sets the en
-
 ### Manual setting enviromental variables
 
-There are 5 variables that need to be set
+There are 5 variables that need to be set inorder for the executable to function
  - DB_host
  - DB_port
  - DB_name
